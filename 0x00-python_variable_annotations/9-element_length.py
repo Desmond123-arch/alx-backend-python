@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """ Contains the function element_length """
 from typing import List, Tuple, Iterable, Sequence
 

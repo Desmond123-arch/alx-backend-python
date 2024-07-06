@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """ Contains the type-annotated function to_kv"""
 from typing import Union, Tuple
 

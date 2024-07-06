@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """ Contains annotation for various variables """
 
 a: int = 1
