@@ -4,6 +4,7 @@
 import asyncio
 wait_random = __import__('0-basic_async_syntax').wait_random
 
+
 async def wait_n(n, max_delay):
     """ Calls wait_random n times"""
     vals = []
